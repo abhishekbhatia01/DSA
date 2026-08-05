@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/abhishekbhatia01/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhishekbhatia01/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1046-last-stone-weight](https://github.com/abhishekbhatia01/DSA/tree/master/1046-last-stone-weight) |
 ## Heap (Priority Queue)
 |  |
@@ -19,8 +20,10 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/abhishekbhatia01/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhishekbhatia01/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sorting
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/abhishekbhatia01/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhishekbhatia01/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
