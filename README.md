@@ -26,4 +26,12 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/abhishekbhatia01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhishekbhatia01/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/abhishekbhatia01/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/abhishekbhatia01/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
