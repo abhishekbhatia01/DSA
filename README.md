@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhishekbhatia01/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0146-lru-cache](https://github.com/abhishekbhatia01/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhishekbhatia01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
@@ -39,5 +40,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abhishekbhatia01/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhishekbhatia01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abhishekbhatia01/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abhishekbhatia01/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
