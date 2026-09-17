@@ -51,13 +51,4 @@ class Solution {
         return true;
     }
 
-    public List<String> construct(char[][] board){
-        List<String> res = new ArrayList<>();
-
-        for(char[] ch : board){
-            res.add(new String(ch));
-        }
-
-        return res;
-    }
 }
