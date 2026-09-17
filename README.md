@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhishekbhatia01/DSA/tree/master/0037-sudoku-solver) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekbhatia01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/abhishekbhatia01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhishekbhatia01/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhishekbhatia01/DSA/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/abhishekbhatia01/DSA/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/abhishekbhatia01/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhishekbhatia01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -78,6 +80,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhishekbhatia01/DSA/tree/master/0037-sudoku-solver) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekbhatia01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 ## Bidirectional Search
 |  |
@@ -86,9 +89,15 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhishekbhatia01/DSA/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhishekbhatia01/DSA/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/abhishekbhatia01/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
