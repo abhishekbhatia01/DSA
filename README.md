@@ -7,6 +7,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhishekbhatia01/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/abhishekbhatia01/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0047-permutations-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekbhatia01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/abhishekbhatia01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhishekbhatia01/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -30,6 +31,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0047-permutations-ii) |
 | [0435-non-overlapping-intervals](https://github.com/abhishekbhatia01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhishekbhatia01/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Linked List
@@ -92,6 +94,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhishekbhatia01/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/abhishekbhatia01/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
