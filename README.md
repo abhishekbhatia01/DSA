@@ -43,6 +43,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/abhishekbhatia01/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhishekbhatia01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/abhishekbhatia01/DSA/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
