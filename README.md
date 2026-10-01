@@ -16,6 +16,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhishekbhatia01/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [1046-last-stone-weight](https://github.com/abhishekbhatia01/DSA/tree/master/1046-last-stone-weight) |
 ## Dynamic Programming
 |  |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhishekbhatia01/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/abhishekbhatia01/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/abhishekbhatia01/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/abhishekbhatia01/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -134,4 +136,16 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/abhishekbhatia01/DSA/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhishekbhatia01/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhishekbhatia01/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhishekbhatia01/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
