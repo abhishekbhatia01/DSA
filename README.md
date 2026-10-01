@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/abhishekbhatia01/DSA/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/abhishekbhatia01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhishekbhatia01/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Linked List
@@ -45,6 +46,7 @@
 | [0141-linked-list-cycle](https://github.com/abhishekbhatia01/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/abhishekbhatia01/DSA/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/abhishekbhatia01/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhishekbhatia01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/abhishekbhatia01/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abhishekbhatia01/DSA/tree/master/0234-palindrome-linked-list) |
@@ -55,6 +57,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhishekbhatia01/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/abhishekbhatia01/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/abhishekbhatia01/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhishekbhatia01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/abhishekbhatia01/DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
@@ -140,10 +143,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhishekbhatia01/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/abhishekbhatia01/DSA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhishekbhatia01/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/abhishekbhatia01/DSA/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
