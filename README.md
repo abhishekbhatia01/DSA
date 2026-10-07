@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/abhishekbhatia01/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/abhishekbhatia01/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0047-permutations-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekbhatia01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekbhatia01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/abhishekbhatia01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhishekbhatia01/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/abhishekbhatia01/DSA/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekbhatia01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/abhishekbhatia01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekbhatia01/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/abhishekbhatia01/DSA/tree/master/1143-longest-common-subsequence) |
