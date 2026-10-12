@@ -15,6 +15,7 @@
 | [0435-non-overlapping-intervals](https://github.com/abhishekbhatia01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhishekbhatia01/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1046-last-stone-weight](https://github.com/abhishekbhatia01/DSA/tree/master/1046-last-stone-weight) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishekbhatia01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/abhishekbhatia01/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhishekbhatia01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishekbhatia01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
 | ------- |
@@ -161,4 +163,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekbhatia01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishekbhatia01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
