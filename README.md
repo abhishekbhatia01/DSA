@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhishekbhatia01/DSA/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/abhishekbhatia01/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/abhishekbhatia01/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/abhishekbhatia01/DSA/tree/master/0046-permutations) |
@@ -39,6 +40,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhishekbhatia01/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/abhishekbhatia01/DSA/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/abhishekbhatia01/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -60,6 +62,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhishekbhatia01/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhishekbhatia01/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/abhishekbhatia01/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0142-linked-list-cycle-ii) |
