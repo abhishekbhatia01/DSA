@@ -68,6 +68,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhishekbhatia01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/abhishekbhatia01/DSA/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/abhishekbhatia01/DSA/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/abhishekbhatia01/DSA/tree/master/0141-linked-list-cycle) |
@@ -86,6 +87,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhishekbhatia01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/abhishekbhatia01/DSA/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/abhishekbhatia01/DSA/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekbhatia01/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -166,5 +168,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhishekbhatia01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishekbhatia01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
