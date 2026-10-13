@@ -15,6 +15,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekbhatia01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/abhishekbhatia01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhishekbhatia01/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhishekbhatia01/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/abhishekbhatia01/DSA/tree/master/1046-last-stone-weight) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishekbhatia01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
@@ -167,14 +168,17 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekbhatia01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekbhatia01/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhishekbhatia01/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekbhatia01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekbhatia01/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhishekbhatia01/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishekbhatia01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekbhatia01/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhishekbhatia01/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
