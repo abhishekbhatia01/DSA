@@ -104,10 +104,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abhishekbhatia01/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekbhatia01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abhishekbhatia01/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/abhishekbhatia01/DSA/tree/master/0127-word-ladder) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekbhatia01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 ## Matrix
@@ -184,4 +186,12 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekbhatia01/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekbhatia01/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abhishekbhatia01/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/abhishekbhatia01/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
