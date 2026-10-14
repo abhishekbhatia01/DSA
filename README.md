@@ -70,6 +70,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/abhishekbhatia01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekbhatia01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/abhishekbhatia01/DSA/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/abhishekbhatia01/DSA/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/abhishekbhatia01/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhishekbhatia01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0567-permutation-in-string](https://github.com/abhishekbhatia01/DSA/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishekbhatia01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
@@ -96,6 +98,7 @@
 | [0072-edit-distance](https://github.com/abhishekbhatia01/DSA/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/abhishekbhatia01/DSA/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekbhatia01/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/abhishekbhatia01/DSA/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/abhishekbhatia01/DSA/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
@@ -180,6 +183,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekbhatia01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekbhatia01/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/abhishekbhatia01/DSA/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekbhatia01/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishekbhatia01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
