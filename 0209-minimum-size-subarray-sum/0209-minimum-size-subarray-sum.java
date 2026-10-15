@@ -1,10 +1,10 @@
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
-        int minLen = Integer.MAX_VALUE;
         int i=0, j=0;
+        int minLen = Integer.MAX_VALUE;
         int sum = 0;
 
-        while(j<nums.length){
+        while(j < nums.length){
             sum += nums[j];
 
             while(sum >= target){
@@ -12,7 +12,6 @@ class Solution {
                 sum -= nums[i];
                 i++;
             }
-            
 
             j++;
         }
