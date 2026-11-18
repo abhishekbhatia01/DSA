@@ -12,6 +12,7 @@
 | [0047-permutations-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0047-permutations-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekbhatia01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekbhatia01/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/abhishekbhatia01/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekbhatia01/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekbhatia01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/abhishekbhatia01/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -113,6 +114,7 @@
 | [0101-symmetric-tree](https://github.com/abhishekbhatia01/DSA/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhishekbhatia01/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/abhishekbhatia01/DSA/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/abhishekbhatia01/DSA/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishekbhatia01/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekbhatia01/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/abhishekbhatia01/DSA/tree/master/0404-sum-of-left-leaves) |
@@ -126,12 +128,14 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhishekbhatia01/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/abhishekbhatia01/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/abhishekbhatia01/DSA/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/abhishekbhatia01/DSA/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/abhishekbhatia01/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekbhatia01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhishekbhatia01/DSA/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/abhishekbhatia01/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekbhatia01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 ## Bidirectional Search
 |  |
@@ -247,4 +251,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/abhishekbhatia01/DSA/tree/master/0133-clone-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/abhishekbhatia01/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
