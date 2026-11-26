@@ -125,6 +125,7 @@
 | [0404-sum-of-left-leaves](https://github.com/abhishekbhatia01/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekbhatia01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/abhishekbhatia01/DSA/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/abhishekbhatia01/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekbhatia01/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
@@ -142,6 +143,7 @@
 | [0404-sum-of-left-leaves](https://github.com/abhishekbhatia01/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekbhatia01/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/abhishekbhatia01/DSA/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/abhishekbhatia01/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekbhatia01/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Matrix
@@ -267,6 +269,7 @@
 | [0207-course-schedule](https://github.com/abhishekbhatia01/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/abhishekbhatia01/DSA/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/abhishekbhatia01/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekbhatia01/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Union-Find
@@ -274,6 +277,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/abhishekbhatia01/DSA/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/abhishekbhatia01/DSA/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/abhishekbhatia01/DSA/tree/master/0685-redundant-connection-ii) |
 ## Topological Sort
 |  |
 | ------- |
